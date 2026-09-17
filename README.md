@@ -1,5 +1,6 @@
 # Capstone_Project----Personal_Loans_Default_Risk-Credit_Score-CIBIL-_Analysis
 A data-driven analysis of Indian personal loan defaults using various financial, demographic, and credit-related factors to identify key credit-score drivers and assess borrower default risk.
+
 📌 Project Objective
 Analyze personal loan applications to assess default risk using demographics, financial attributes, and credit history.
 Leverage complementary variables such as CIBIL Score, late payments, credit utilization, credit inquiries, DTI, LTI, and EMI burden for a holistic view of applicant creditworthiness.
